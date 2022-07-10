@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlexWEBArt/AJS-symbols-iterators.git"
+    "url": "git+https://github.com/AlexWEBArt/AJS-symbols-generators.git"
   },
   "author": "AlexWEBArt",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AlexWEBArt/AJS-symbols-iterators/issues"
+    "url": "https://github.com/AlexWEBArt/AJS-symbols-generators/issues"
   },
-  "homepage": "https://github.com/AlexWEBArt/AJS-symbols-iterators#readme",
+  "homepage": "https://github.com/AlexWEBArt/AJS-symbols-generators#readme",
   "devDependencies": {
     "@babel/cli": "^7.17.10",
     "@babel/core": "^7.18.5",
